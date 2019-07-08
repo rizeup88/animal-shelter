@@ -1,0 +1,98 @@
+body {
+  background-color: #e3f7ff;
+  background-size: cover;
+}
+
+p {
+  color: #000000;
+  text-align: center;
+}
+
+h1 {
+  color: #09374a;
+  font-size: 30px;
+  font-family: "Ubuntu";
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+
+.intro img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro h2 {
+  color: #09374a;
+  font-family: "Ubuntu";
+  text-align: center;
+  font-style: italic;
+}
+
+.background {
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Ubuntu";
+  padding-top: 10px;
+}
+
+.background h1 {
+  color: #5d6366;
+}
+
+.newpets {
+  position: relative;
+  font-family: "Tahoma";
+  padding-top: 10px;
+}
+
+.newpets .container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 25px;
+}
+
+.newpets .container .column1 {
+  background-color: #a6cbde;
+  display: inline-block;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  text-align: center;
+}
+
+.newpets .container .column2 {
+  background-color: #a6cbde;
+  display: inline-block;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  text-align: center;
+}
+
+.newpets .container .column3 {
+  background-color: #a6cbde;
+  display: inline-block;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  text-align: center;
+}
